@@ -31,19 +31,22 @@ This algorithm computes the maximum profit that can be obtained from buying and 
 
 ## Usage
 
-```python
-def max_stock_profit(nums):
-    left = 0
-    right = 1
-    current_max_profit = 0
+```javascript
+function maxStockProfit(nums) {
+  let left = 0;
+  let right = 1;
+  let currentMaxProfit = 0;
 
-    for i in range(len(nums) - 1):
-        if nums[left] < nums[right]:
-            current_profit = nums[right] - nums[left]
-            current_max_profit = max(current_max_profit, current_profit)
-        else:
-            left = right
-        right += 1
+  for (let i = 0; i < nums.length - 1; i++) {
+    if (nums[left] < nums[right]) {
+      const currentProfit = nums[right] - nums[left];
+      currentMaxProfit = Math.max(currentMaxProfit, currentProfit);
+    } else {
+      left = right;
+    }
+    right++;
+  }
 
-    return current_max_profit
+  return currentMaxProfit;
+}
 ```
