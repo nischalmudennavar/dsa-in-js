@@ -2,11 +2,10 @@
 
 ### References
 
-1. [ Blind 75 sorted by difficulty ](https://www.techinterviewhandbook.org/grind75)
-
-2. [ Neetcode.io for explanation ](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
-
-3. [ AlgoJs for solutions in Js ](https://www.youtube.com/playlist?list=PL2HJG3tFqkg8jMqGYtkWDpF53rGvtPa6V)
+1. [DS Basics](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
+2. [ Blind 75 sorted by difficulty ](https://www.techinterviewhandbook.org/grind75)
+3. [ Neetcode.io for explanation ](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
+4. [ AlgoJs for solutions in Js ](https://www.youtube.com/playlist?list=PL2HJG3tFqkg8jMqGYtkWDpF53rGvtPa6V)
 
 ### My Progress
 

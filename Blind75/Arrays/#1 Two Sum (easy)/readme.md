@@ -1,5 +1,7 @@
 # Two Sum Problem
 
+Revisit Count : 2
+
 ## Problem Statement
 
 Given an array `nums = [2, 1, 4, 5]` and a target value `target = 6`, return the indices of the two values that add up to the target.

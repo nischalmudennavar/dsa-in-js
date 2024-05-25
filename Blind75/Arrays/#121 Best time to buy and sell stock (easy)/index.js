@@ -1,8 +1,8 @@
 // two pointer approach
 const solution = (nums) => {
-  let left = 0; // Initialize the left pointer to 0
-  let right = 1; // Initialize the right pointer to 1
-  let currentMaxProfit = 0; // Initialize the maximum profit to 0
+  let left = 0;
+  let right = 1;
+  let currentMaxProfit = 0;
 
   for (let i = 0; i < nums.length - 1; i++) {
     // Iterate through the array, but stop one index before the end
