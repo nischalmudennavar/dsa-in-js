@@ -17,5 +17,3 @@ const solution = (nums) => {
     return max;
   }
 };
-
-const
